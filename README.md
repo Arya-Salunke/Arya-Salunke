@@ -1,7 +1,6 @@
-## Hi there 👋
-I am Arya Salunke
-Currently pursuing Diploma in AI & ML.
-Open to any collaborative projects under AI-ML topics.
+## Hi there 👋 I am Arya Salunke!
+- Currently pursuing Diploma in AI & ML.
+- Open to any collaborative projects under AI-ML topics.
 
 <!--
 **Arya-Salunke/Arya-Salunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
