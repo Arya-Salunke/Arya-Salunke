@@ -1,18 +1,27 @@
-## Hi there 👋 I am Arya Salunke!
-- Currently pursuing Diploma in AI & ML.
-- Open to any collaborative projects under AI-ML topics.
+# Hi 👋, I'm Arya!
 
-<!--
-**Arya-Salunke/Arya-Salunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Diploma Student | 🤖 AI & ML Enthusiast
+I'm currently learning **Python, Artificial Intelligence, Machine Learning, and Web Development**.
+I'm just getting started with GitHub, so this profile is where I'm going to document my learning journey and build projects step by step 🚀
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 2nd Year Diploma Student
+- 🤖 Pursuing Artificial Intelligence & Machine Learning
+- 🐍 Currently learning Python
+- 💻 Exploring AI/ML and Data Science
+- 🌐 Learning HTML & CSS
+- 🐙 Learning Git & GitHub
+- 💡 Interested in building practical projects
+- 🏆 Exploring Hackathons & Ideathons
+---
+
+## 🛠️ Currently Learning
+
+```text
+Python          🌱🌱🌱
+HTML/CSS        🌱🌱
+Git & GitHub    🌱🌱
+SQL             🌱
+Machine Learning🌱
