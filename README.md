@@ -12,7 +12,7 @@ I'm just getting started with GitHub, so this profile is where I'm going to docu
 - 🎓 2nd Year Diploma Student
 - 🤖 Pursuing Artificial Intelligence & Machine Learning
 - 🐍 Currently learning Python
-- 💻 Exploring AI/ML and Data Science
+- 💻 Exploring AI/ML 
 - 🌐 Learning HTML & CSS
 - 🐙 Learning Git & GitHub
 - 💡 Interested in building practical projects
